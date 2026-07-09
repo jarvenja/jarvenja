@@ -3,7 +3,8 @@
     <p><b>reloads</b> since July 9, 2026</p>
 </div>
 <hr>
-<h3>Experience in things such as:</h3>
+<h3>Pragmatic software architect focused on building scalable systems of high quality.</h3>
+<p>Experienced in applying technologies such as:</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=md,css,html,js,jquery,react,nodejs" />
   <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,java,spring,maven" />
@@ -11,5 +12,6 @@
   <img src="https://skillicons.dev/icons?i=git,jenkins,sublime,visualstudio,vscode" />
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,raspberrypi,mint,windows" />
 </p>
+<hr>
 
-> **Please note:** This is **NOT** my portfolio but a collection of random samples and exercises for various purposes.
+**Please note:** This is **NOT** my portfolio but a collection of random samples and exercises for various purposes.
