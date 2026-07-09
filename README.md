@@ -12,6 +12,5 @@
   <img src="https://skillicons.dev/icons?i=git,jenkins,sublime,visualstudio,vscode" />
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,raspberrypi,mint,windows" />
 </p>
-<hr>
 
 **Please note:** This is **NOT** my portfolio but a collection of random samples and exercises for various purposes.
