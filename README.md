@@ -1,14 +1,12 @@
 <div align="center"> 
     <img src="https://profile-counter.deno.dev/:jarvenja:/count.svg" alt="Key:: Reloads" />
     <p>
-      <b>reloads</b>;&nbsp;
-      <span id="Days"><span>
-      <script src="./scripts/days-passed.js"></script>
+      <b>reloads</b> since 9th July, 2026
     </p>
 </div>
 <hr>
 <h3>Pragmatic software architect focused on building scalable systems of high quality.</h3>
-<p>SKilled and experienced in applying technologies such as:</p>
+<p>Skilled and experienced in applying technologies such as:</p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=md,css,html,js,jquery,react,nodejs" />
   <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,java,spring,maven" />
