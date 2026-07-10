@@ -14,4 +14,6 @@
   <img src="https://skillicons.dev/icons?i=git,jenkins,sublime,visualstudio,vscode" />
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,raspberrypi,mint,windows" />
 </div>
+<br/>
+
 **Please note:** These repos are **NOT** my portfolio but random samples and exercises made with inspiration for various purposes.
