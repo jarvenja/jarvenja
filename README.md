@@ -1,16 +1,19 @@
 <div align="center"> 
-    <img src="https://profile-counter.deno.dev/:jarvenja:/count.svg" alt="Key:: Visitors Count" />
-    <p><b>reloads</b> since July 9, 2026</p>
+    <img src="https://profile-counter.deno.dev/:jarvenja:/count.svg" alt="Key:: Reloads" />
+    <p>
+      <b>reloads</b>;&nbsp;
+      <span id="Days"><span>
+    </p>
 </div>
 <hr>
 <h3>Pragmatic software architect focused on building scalable systems of high quality.</h3>
-<p>Experienced in applying technologies such as:</p>
-<p align="center">
+<p>SKilled and experienced in applying technologies such as:</p>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=md,css,html,js,jquery,react,nodejs" />
   <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,java,spring,maven" />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,elasticsearch,regex" />
   <img src="https://skillicons.dev/icons?i=git,jenkins,sublime,visualstudio,vscode" />
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,raspberrypi,mint,windows" />
-</p>
-
-**Please note:** This is **NOT** my portfolio but a collection of random samples and exercises for various purposes.
+</div>
+<script src="./scripts.js"></script>
+**Please note:** These repos are **NOT** my portfolio but random samples and exercises made with inspiration for various purposes.
