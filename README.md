@@ -3,6 +3,7 @@
     <p>
       <b>reloads</b>;&nbsp;
       <span id="Days"><span>
+      <script src="./scripts/days-passed.js"></script>
     </p>
 </div>
 <hr>
@@ -15,5 +16,4 @@
   <img src="https://skillicons.dev/icons?i=git,jenkins,sublime,visualstudio,vscode" />
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,raspberrypi,mint,windows" />
 </div>
-<script src="./scripts.js"></script>
 **Please note:** These repos are **NOT** my portfolio but random samples and exercises made with inspiration for various purposes.
