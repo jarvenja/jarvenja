@@ -1,0 +1,13 @@
+div#Counter {
+	font-family: 'Jura';
+	font-size: 24px;
+	font-weight: bold;
+}
+div#Counter img {
+	border: 1px solid green;
+	padding: 1px;
+	vertical-align: middle;
+}
+div.Section {
+	text-align: center;
+}
