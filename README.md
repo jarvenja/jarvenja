@@ -1,5 +1,5 @@
-<link href='https://fonts.googleapis.com/css?family=Jura' rel='stylesheet'>
-<link href="styles.css" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Jura' rel='stylesheet' />
+<link href="styles.css" rel="stylesheet" />
 <div id="Counter" class="Section"> 
     <img src="https://profile-counter.deno.dev/:jarvenja:/count.svg" alt="Key:: Reloads" />
     <p>reloads since 9th July, 2026</p>
