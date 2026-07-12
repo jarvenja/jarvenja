@@ -7,7 +7,7 @@
 <hr>
 <h3>Experienced software architect focused on building scalable systems of high quality.</h3>
 <p>Skilled and experienced in applying technologies such as:</p>
-<div class="Counter">
+<div class="Section">
   <img src="https://skillicons.dev/icons?i=md,css,html,js,jquery,react,nodejs" title="md css html js jquery react nodejs" />
   <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,java,spring,maven" title="bash c cs cpp java spring maven" />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,elasticsearch,regex" title="bash c cs cpp java spring maven" />
