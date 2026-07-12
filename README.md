@@ -2,7 +2,7 @@
 <link href="styles.css" rel="stylesheet">
 <div id="Counter" class="Section"> 
     <img src="https://profile-counter.deno.dev/:jarvenja:/count.svg" alt="Key:: Reloads" />
-    <p>reloads</b> since 9th July, 2026</p>
+    <p>reloads since 9th July, 2026</p>
 </div>
 <hr>
 <h3>Experienced software architect focused on building scalable systems of high quality.</h3>
