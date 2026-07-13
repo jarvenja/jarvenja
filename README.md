@@ -1,5 +1,6 @@
-<div id="Counter">
-    <img src="counter.svg" width="400" height="80" alt="My Counter">
+<div align="center">
+    <img src="https://profile-counter.deno.dev/:jarvenja:/count.svg" alt="Key:: Reloads" />
+    <p>reloads since 9th July, 2026</p>
 </div>
 <hr>
 <h3>Experienced software architect focused on building scalable systems of high quality.</h3>
