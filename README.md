@@ -1,24 +1,6 @@
-<svg fill="none" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div align="center" xmlns="http://www.w3.org/1999/xhtml">
-      <link href='https://fonts.googleapis.com/css?family=Jura' rel='stylesheet' />
-      <style>
-        div {
-          font: 18px serif;
-          height: 100%;
-          overflow: auto;
-        }
-        img {
-          border: 1px solid green;
-          padding: 1px;
-          vertical-align: middle;
-        }
-      </style>
-      <img src="https://profile-counter.deno.dev/:jarvenja:/count.svg" alt="Key:: Reloads" />
-      <span>reloads since 9th July, 2026</span>
-    </div>
-  </foreignObject>
-</svg>
+<div id="Counter">
+    <img src="counter.svg" alt="My Counter">
+</div>
 <hr>
 <h3>Experienced software architect focused on building scalable systems of high quality.</h3>
 <p>Skilled and experienced in applying technologies such as:</p>
