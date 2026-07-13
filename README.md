@@ -1,5 +1,5 @@
 <div id="Counter">
-    <img src="counter.svg" alt="My Counter">
+    <img src="counter.svg" width="400" height="80" alt="My Counter">
 </div>
 <hr>
 <h3>Experienced software architect focused on building scalable systems of high quality.</h3>
