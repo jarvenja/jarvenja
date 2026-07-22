@@ -14,4 +14,5 @@
 </div>
 <br/>
 
-**Please note:** These repos are **NOT** my portfolio but samples and exercises made with inspiration for various purposes.
+| Please note that these repos are **NOT** my portfolio but samples and exercises made with inspiration for various purposes. |
+|---|
