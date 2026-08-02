@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://profile-counter.deno.dev/:jarvenja:/count.svg" alt="[count is temporary unavailable]" />
+    <img src="https://profile-counter.deno.dev/:jarvenja:/count.svg" alt="Key:: Reloads" />
     <p>reloads since 9th July, 2026</p>
 </div>
 <hr>
