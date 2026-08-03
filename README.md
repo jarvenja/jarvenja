@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://profile-counter.deno.dev/:jarvenja:/count.svg" alt="Key:: Reloads" />
-    <p>reloads since 9th July, 2026</p>
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjarvenja%2Fjarvenja.json%3Fcolor%3Dlimegreen" />
+    <p>since 3th August, 2026</p>
 </div>
 <hr>
 <h3>Experienced software architect focused on building scalable systems of high quality.</h3>
