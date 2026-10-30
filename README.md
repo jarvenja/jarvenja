@@ -3,16 +3,17 @@
     <p>since 3th August, 2026</p>
 </div>
 <hr>
-<h3>Experienced software architect focused on building scalable systems of high quality.</h3>
-<p>Skilled and experienced in applying technologies and tools such as:</p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=md,css,html,js,jquery,react,nodejs" title="md css html js jquery react nodejs ..." />
+  <h3>Topnotch software architect => focused on building scalable systems of high quality.</h3>
+      <p>Experienced in applying technologies such as:</p>
+  <img src="https://skillicons.dev/icons?i=md,css,html,js,jquery,react,nodejs" title="md css html js jquery react nodejs ..." /><br/>
   <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,java,spring,maven" title="... bash c cs cpp java spring maven ..." />
+<p>Skilled in utilizing tools such as:</p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,elasticsearch,regex" title="... mongodb mysql sqlite elasticsearch regex ..." />
   <img src="https://skillicons.dev/icons?i=git,jenkins,sublime,visualstudio,vscode" title="... git jenkins sublime visualstudio vscode ..." />
+<br/>
+<p>Used to developed on platforms such as:</p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,raspberrypi,mint,windows" title="... aws azure docker raspberrypi mint windows" />
 </div>
-<br/>
 
-| Please note that these repos are **NOT** my portfolio but samples and exercises made with inspiration for various purposes. |
-|---|
+
